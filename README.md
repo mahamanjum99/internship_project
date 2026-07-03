@@ -1,6 +1,6 @@
 # KTML Internship Project
 
-Internship project repository — Week 1: Foundation, Environment & Database Setup.
+Internship project repository  Week 1: Foundation, Environment & Database Setup.
 
 ## 📋 Overview
 
