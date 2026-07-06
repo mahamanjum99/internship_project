@@ -24,7 +24,7 @@ ktml_intern_project/
 ├── test.ipynb                     # Jupyter notebook - environment test
 ├── db_test.py                     # Python ↔ Oracle DB connection test
 ├── core_refresh.py                # NumPy/Pandas/OpenCV practice + DB write
-├── Numpy_1.ipynb                  # NumPy concepts practice/reference
+├── Numpy.ipynb                  # NumPy concepts practice/reference
 ├── pandas.ipynb                   # Pandas concepts practice/reference
 ├── opencv.ipynb                   # OpenCV practice - transformations, color
 │                                     detection, shape detection + DB write
